@@ -1,5 +1,5 @@
 # Pitch Appp
-## A web application that lets users submit pitches based on different categories and user cn like or dislike pithches.
+## A web application that lets users submit pitches based on different categories and users can like or dislike pithches.
 
 
 
